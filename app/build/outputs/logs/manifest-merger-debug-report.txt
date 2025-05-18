@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\encar\.gradle\caches\8.12\transforms\67c1a56e79ba2e3b140c46359146f8b3\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\encar\.gradle\caches\8.12\transforms\8cfcd87c99e02a7e1b340956c1f5d474\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\encar\.gradle\caches\8.12\transforms\1359dba12ff86a2bdc7ed596fed5dc38\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\encar\.gradle\caches\8.12\transforms\ea57c7f3a7c94913ad7edcd688130022\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\89b250d27d62d60715b167aa3a11c3ca\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\92b8006beee9ceb1d00ace67a1e7ddd2\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\b2e208ecd8ec552a13d11cf40430165e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\encar\.gradle\caches\8.12\transforms\0acc654eabcdde6511604d701f3455d9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\encar\.gradle\caches\8.12\transforms\596fbb53d990ec031294100656198c93\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\0fcfd319bbc0956b41b55b152bc91d08\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\c29b9423c1ae78d379b0ca570b055e93\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\e778e84e901ffb4fa07eb7714ee87a36\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\34f4d0a5d31036417a7d2253c494c0bf\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\encar\.gradle\caches\8.12\transforms\ff81d44848e655e0c86a677464df6081\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\encar\.gradle\caches\8.12\transforms\92d442172072375797fc451d9819bd43\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\a0a1ad938f593003f53663f222ca9746\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\c0445659e26d6414cf6b56982e48f65d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\encar\.gradle\caches\8.12\transforms\3c42d8682748ad8ef90769219c4c1b89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\encar\.gradle\caches\8.12\transforms\6973f5ce949bcfdbe80c4a05d56613fd\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\05a87dfdb69645110a2b0dc441ceeb73\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\encar\.gradle\caches\8.12\transforms\cb65fb41e179c61789df2f906b6caa55\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\353ed23a170269c60b37739c47fb043b\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\encar\.gradle\caches\8.12\transforms\1e6acdcb2cdc937467c29d5a627f6f8f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\f86bdb9d59a2f74d1a9c470cc1577ec9\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\encar\.gradle\caches\8.12\transforms\6136ff774c3d449e54eaaeab90a6373b\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\encar\.gradle\caches\8.12\transforms\c7c44c8bc62a797b4ea7f971170823b2\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\79edd4fa96ed179ec8ba90142021d149\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\encar\.gradle\caches\8.12\transforms\37abb4ddf1a747ee1f7d919162371757\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:3:5-75
+	android:name
+		ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:3:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:5:22-76
+application
+ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:6:5-18:19
+INJECTED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:6:5-18:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\b2e208ecd8ec552a13d11cf40430165e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\b2e208ecd8ec552a13d11cf40430165e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\34f4d0a5d31036417a7d2253c494c0bf\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\34f4d0a5d31036417a7d2253c494c0bf\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\encar\.gradle\caches\8.12\transforms\3c42d8682748ad8ef90769219c4c1b89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\encar\.gradle\caches\8.12\transforms\3c42d8682748ad8ef90769219c4c1b89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\encar\.gradle\caches\8.12\transforms\cb65fb41e179c61789df2f906b6caa55\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\encar\.gradle\caches\8.12\transforms\cb65fb41e179c61789df2f906b6caa55\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\encar\.gradle\caches\8.12\transforms\1e6acdcb2cdc937467c29d5a627f6f8f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\encar\.gradle\caches\8.12\transforms\1e6acdcb2cdc937467c29d5a627f6f8f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\34f4d0a5d31036417a7d2253c494c0bf\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:11:9-65
+activity#com.example.airplanemodeipviewer.MainActivity
+ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:12:9-17:20
+	android:exported
+		ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:12:48-71
+	android:name
+		ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:15:17-76
+	android:name
+		ADDED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\encar\.gradle\caches\8.12\transforms\67c1a56e79ba2e3b140c46359146f8b3\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\encar\.gradle\caches\8.12\transforms\67c1a56e79ba2e3b140c46359146f8b3\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\encar\.gradle\caches\8.12\transforms\8cfcd87c99e02a7e1b340956c1f5d474\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\encar\.gradle\caches\8.12\transforms\8cfcd87c99e02a7e1b340956c1f5d474\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\encar\.gradle\caches\8.12\transforms\1359dba12ff86a2bdc7ed596fed5dc38\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\encar\.gradle\caches\8.12\transforms\1359dba12ff86a2bdc7ed596fed5dc38\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\encar\.gradle\caches\8.12\transforms\ea57c7f3a7c94913ad7edcd688130022\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\encar\.gradle\caches\8.12\transforms\ea57c7f3a7c94913ad7edcd688130022\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\89b250d27d62d60715b167aa3a11c3ca\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\89b250d27d62d60715b167aa3a11c3ca\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\92b8006beee9ceb1d00ace67a1e7ddd2\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\92b8006beee9ceb1d00ace67a1e7ddd2\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\b2e208ecd8ec552a13d11cf40430165e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\b2e208ecd8ec552a13d11cf40430165e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\encar\.gradle\caches\8.12\transforms\0acc654eabcdde6511604d701f3455d9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\encar\.gradle\caches\8.12\transforms\0acc654eabcdde6511604d701f3455d9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\encar\.gradle\caches\8.12\transforms\596fbb53d990ec031294100656198c93\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\encar\.gradle\caches\8.12\transforms\596fbb53d990ec031294100656198c93\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\0fcfd319bbc0956b41b55b152bc91d08\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\0fcfd319bbc0956b41b55b152bc91d08\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\c29b9423c1ae78d379b0ca570b055e93\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\c29b9423c1ae78d379b0ca570b055e93\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\e778e84e901ffb4fa07eb7714ee87a36\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\e778e84e901ffb4fa07eb7714ee87a36\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\34f4d0a5d31036417a7d2253c494c0bf\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\34f4d0a5d31036417a7d2253c494c0bf\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\encar\.gradle\caches\8.12\transforms\ff81d44848e655e0c86a677464df6081\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\encar\.gradle\caches\8.12\transforms\ff81d44848e655e0c86a677464df6081\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\encar\.gradle\caches\8.12\transforms\92d442172072375797fc451d9819bd43\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\encar\.gradle\caches\8.12\transforms\92d442172072375797fc451d9819bd43\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\a0a1ad938f593003f53663f222ca9746\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\a0a1ad938f593003f53663f222ca9746\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\c0445659e26d6414cf6b56982e48f65d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\c0445659e26d6414cf6b56982e48f65d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\encar\.gradle\caches\8.12\transforms\3c42d8682748ad8ef90769219c4c1b89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\encar\.gradle\caches\8.12\transforms\3c42d8682748ad8ef90769219c4c1b89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\encar\.gradle\caches\8.12\transforms\6973f5ce949bcfdbe80c4a05d56613fd\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\encar\.gradle\caches\8.12\transforms\6973f5ce949bcfdbe80c4a05d56613fd\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\05a87dfdb69645110a2b0dc441ceeb73\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\05a87dfdb69645110a2b0dc441ceeb73\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\encar\.gradle\caches\8.12\transforms\cb65fb41e179c61789df2f906b6caa55\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\encar\.gradle\caches\8.12\transforms\cb65fb41e179c61789df2f906b6caa55\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\353ed23a170269c60b37739c47fb043b\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\353ed23a170269c60b37739c47fb043b\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\encar\.gradle\caches\8.12\transforms\1e6acdcb2cdc937467c29d5a627f6f8f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\encar\.gradle\caches\8.12\transforms\1e6acdcb2cdc937467c29d5a627f6f8f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\f86bdb9d59a2f74d1a9c470cc1577ec9\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\f86bdb9d59a2f74d1a9c470cc1577ec9\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\encar\.gradle\caches\8.12\transforms\6136ff774c3d449e54eaaeab90a6373b\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\encar\.gradle\caches\8.12\transforms\6136ff774c3d449e54eaaeab90a6373b\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\encar\.gradle\caches\8.12\transforms\c7c44c8bc62a797b4ea7f971170823b2\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\encar\.gradle\caches\8.12\transforms\c7c44c8bc62a797b4ea7f971170823b2\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\79edd4fa96ed179ec8ba90142021d149\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\encar\.gradle\caches\8.12\transforms\79edd4fa96ed179ec8ba90142021d149\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\encar\.gradle\caches\8.12\transforms\37abb4ddf1a747ee1f7d919162371757\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\encar\.gradle\caches\8.12\transforms\37abb4ddf1a747ee1f7d919162371757\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\encar\Downloads\AirplaneModeIPViewer\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\b2e208ecd8ec552a13d11cf40430165e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\encar\.gradle\caches\8.12\transforms\3c42d8682748ad8ef90769219c4c1b89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\encar\.gradle\caches\8.12\transforms\3c42d8682748ad8ef90769219c4c1b89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\encar\.gradle\caches\8.12\transforms\cb65fb41e179c61789df2f906b6caa55\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\encar\.gradle\caches\8.12\transforms\cb65fb41e179c61789df2f906b6caa55\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\b2e208ecd8ec552a13d11cf40430165e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\b2e208ecd8ec552a13d11cf40430165e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\b2e208ecd8ec552a13d11cf40430165e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\b2e208ecd8ec552a13d11cf40430165e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\b2e208ecd8ec552a13d11cf40430165e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\b2e208ecd8ec552a13d11cf40430165e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\encar\.gradle\caches\8.12\transforms\b2e208ecd8ec552a13d11cf40430165e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\34f4d0a5d31036417a7d2253c494c0bf\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\34f4d0a5d31036417a7d2253c494c0bf\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\34f4d0a5d31036417a7d2253c494c0bf\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.example.airplanemodeipviewer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\34f4d0a5d31036417a7d2253c494c0bf\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\34f4d0a5d31036417a7d2253c494c0bf\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\34f4d0a5d31036417a7d2253c494c0bf\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\34f4d0a5d31036417a7d2253c494c0bf\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\34f4d0a5d31036417a7d2253c494c0bf\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.airplanemodeipviewer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\34f4d0a5d31036417a7d2253c494c0bf\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\encar\.gradle\caches\8.12\transforms\34f4d0a5d31036417a7d2253c494c0bf\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\encar\.gradle\caches\8.12\transforms\3c42d8682748ad8ef90769219c4c1b89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\encar\.gradle\caches\8.12\transforms\3c42d8682748ad8ef90769219c4c1b89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\encar\.gradle\caches\8.12\transforms\3c42d8682748ad8ef90769219c4c1b89\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

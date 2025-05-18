@@ -1,0 +1,33 @@
+plugins { id 'com.android.application' }
+
+android {
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.example.airplanemodeipviewer"
+        minSdk 21
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    buildTypes {
+        release { minifyEnabled false }
+    }
+
+    namespace 'com.example.airplanemodeipviewer'
+}
+
+configurations.all {
+    resolutionStrategy { force "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.22" }
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'androidx.core:core-ktx:1.12.0'
+}
