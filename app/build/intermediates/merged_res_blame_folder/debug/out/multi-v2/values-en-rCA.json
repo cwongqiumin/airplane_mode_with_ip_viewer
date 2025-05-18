@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.airplanemodeipviewer.app-mergeDebugResources-18:/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "com.example.airplanemodeipviewer.app-mergeDebugResources-26:/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
                     "source": "C:\\Users\\encar\\.gradle\\caches\\8.12\\transforms\\34f4d0a5d31036417a7d2253c494c0bf\\transformed\\core-1.12.0\\res\\values-en-rCA\\values-en-rCA.xml",

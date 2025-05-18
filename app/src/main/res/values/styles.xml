@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.Material" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#3083DC</item>
+        <item name="colorPrimaryVariant">#266FB5</item>
+        <item name="colorSecondary">#3083DC</item>
+    </style>
+</resources>

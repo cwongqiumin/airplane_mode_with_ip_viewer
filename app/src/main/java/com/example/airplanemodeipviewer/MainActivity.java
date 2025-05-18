@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
 
         refreshBtn.setOnClickListener(v -> new FetchIPTask().execute());
 
-        // Initial fetch
         new FetchIPTask().execute();
     }
 
